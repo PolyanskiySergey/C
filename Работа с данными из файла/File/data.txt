@@ -1,0 +1,8 @@
+#Aoc,Person,Name,Surname,State
+#Data,Lenght,Weight
+Aoc,1,Ivan,Ivanov,Russia
+Data,180,83.5
+Aoc,2,Sergey,Polyanskiy,Russia
+Data,185,100.7
+Aoc,3,John,Johnson,USA
+Data,165,68.5
